@@ -1,0 +1,7 @@
+neural-tangents
+streamlit
+scipy
+numpy
+matplotlib
+seaborn
+jax
