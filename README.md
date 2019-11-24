@@ -2,6 +2,8 @@
 
 Author: [Varun Sundar](github.com/varun19299)
 
+![NNGP_NTK.gif](NNGP_NTK.gif)
+
 ## Install
 
 ### JAX

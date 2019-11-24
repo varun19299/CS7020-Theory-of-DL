@@ -783,12 +783,13 @@ st.header("References")
 
 """
 1. [Neural Tangents Cookbook](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/neural_tangents_cookbook.ipynb#scrollTo=IvqFKuxY5pWx).
-2. **NNGP Literature:**
-    a. Lee and Bahri et al.,"",ICLR 2018.
-    b. Mathews *et al.*, "", ICLR 2018.
-3. **NTK Literature:**
-    a. 
-4. **GP-KRR Relation:**
-    a. 
-5. [Source code] for this post.
+2. **NNGP Literature:**  
+    a. Lee and Bahri *et al.*,"Deep neural networks as gaussian processes",ICLR 2018.  
+    b. Mathews *et al.*, "Gaussian process behaviour in wide deep neural networks", ICLR 2018.    
+    c. Novak *et al.*,"Bayesian deep con- volutional networks with many channels are gaussian processes", ICLR 2019.
+3. **NTK Literature:**  
+    a. Arora *et al.*, "On exact computation with an infinitely wide neural net", CoRR 2019.
+4. **GP-KRR Relation:**  
+    a. Kanagawa, Henning *et al.*, "Gaussian Processes and Kernel Methods: A Review on Connections and Equivalences", arXiv, July 2018.
+5. [Source code](github.com/varun19299/Theory_of_DL_project.git) for this post.
 """
